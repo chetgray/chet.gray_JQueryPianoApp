@@ -7,7 +7,7 @@ User Story #211905: JQuery: Piano App
 > - [ ] Create a "piano" app to show the keystrokes for playing "Mary Had a Little
 >       Lamb."
 >
-> - [ ] It should draw 3 boxes on the screen, all white.
+> - [x] It should draw 3 boxes on the screen, all white.
 >
 > - [ ] Then it should make each one grey in the correct order to play the song.
 >
